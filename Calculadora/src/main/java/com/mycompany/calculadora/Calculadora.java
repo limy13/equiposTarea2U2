@@ -7,6 +7,7 @@ public class Calculadora {
 
     public static void main(String[] args) {
         Scanner leer = new Scanner (System.in);
+        System.out.println("HolaLiz");
         System.out.println("Ingresa primer número");
         double x = leer.nextDouble();
         System.out.println("Ingresa segundo número");
